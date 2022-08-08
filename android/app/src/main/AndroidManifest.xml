@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="cumbu.money.codeclean.cumbu">
    <application
-        android:label="cumbu"
+        android:label="Kinguila hoje"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/icon">
 
 
         <meta-data
